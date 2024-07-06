@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://kadena.io/sitemap.xml
